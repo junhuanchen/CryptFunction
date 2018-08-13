@@ -1,3 +1,7 @@
 # CryptRsa
-Rsa Achieve In Standard C.
-I don't want to add ECC for the time being.
+
+Embedded C.
+
+Rsa And Ecc Achieve In Standard C.
+
+You might want to write a assembly for the mod function (a ±  b) % n.
